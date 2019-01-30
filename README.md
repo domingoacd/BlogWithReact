@@ -1,2 +1,3 @@
-# FirstReactApp
-My first app with React 
+# BlogWithReact
+
+A blog interface made with React
