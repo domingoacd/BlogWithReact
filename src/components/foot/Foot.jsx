@@ -4,9 +4,9 @@ class Foot extends Component {
     render() {
         return (
             <footer 
-                className='row bg-secondary p-1 text-white position-fixed fixed-bottom'
+                className='row bg-secondary text-white px-5 py-1 position-fixed fixed-bottom'
             >
-                <p>
+                <p className='p-0'>
                     This is a test app. Be aware that, if you clean your browser
                     history, it may delete the app info.
                 </p>
