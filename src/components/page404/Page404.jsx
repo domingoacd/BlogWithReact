@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Register extends Component{
+class Page404 extends Component {
     redner() {
         return (
             <form>
@@ -10,4 +10,4 @@ class Register extends Component{
     }
 }
 
-export default Register;
+export default Page404;
